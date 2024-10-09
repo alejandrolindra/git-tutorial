@@ -1,4 +1,3 @@
-Modificación remota
-C++
-Java
-Matlab
+C++ - strong
+Java - medium
+Matlab - medium

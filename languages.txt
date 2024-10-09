@@ -1,4 +1,6 @@
-Modificación remota
-C++
-Java
-Matlab
+Lenguas de programación:
+	C++
+	Java
+	Matlab
+Lenguas habladas:
+	Ingés
